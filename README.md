@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, I’m @cugerbol
+- 👋 Hi, I’m @cugerbol 
 - I work as a data analyst
 - My telegram : [@loguntsov_as](https://t.me/loguntsov_as) 
 - 📹 Welcome to my YouTube [channel](https://www.youtube.com/channel/UCoQOapYT_CQSu70vxkZfVrQ)
@@ -10,7 +10,7 @@
 # Projects:
 - [Apache kafka](https://github.com/cugerbol/Kafka) - Разворачиваем кластер Kafka.
 - [s21_decimal](https://github.com/cugerbol/s21_decimal) - Учебный проект школы 21. Пишем собственную библиотеку decimal на языке С.
-- [WBReports]([https://github.com/cugerbol/FinancialReportWildberries](https://github.com/cugerbol/WBReports/blob/main/README.md)) - Получение данных на Wildberries, обработка и экспорт в google sheets.
+- [WBReports](https://github.com/cugerbol/WBReports) - Получение данных на Wildberries, обработка и экспорт в google sheets.
 
 
 <!---
