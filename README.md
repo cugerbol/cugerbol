@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m @cugerbol 
 - I work as a data analyst
-- My telegram : [@loguntsov_a](https://t.me/loguntsov_a) 
+- My telegram : [@loguntsov_as](https://t.me/loguntsov_as) 
 - 📹 Welcome to my YouTube [channel](https://www.youtube.com/channel/UCoQOapYT_CQSu70vxkZfVrQ)
 - 🎓 Look my [stepik](https://stepik.org/users/417534508/profile?preview=true) achievements
 - 👀 I’m interested in Data Science and Economics
