@@ -10,7 +10,7 @@
 # Projects:
 - [Apache kafka](https://github.com/cugerbol/Kafka) - Разворачиваем кластер Kafka.
 - [WBReports](https://github.com/cugerbol/WBReports) - Получение данных на Wildberries, обработка и экспорт в google sheets.
-- [Analytics_pack](https://github.com/cugerbol/analytics_pack) - Моя сборка различных утилит и инструментов для проведения анализа данных.
+- [Analytics_pack](https://github.com/cugerbol/analytics_pack) - Моя сборка различных утилит и инструментов для анализа данных.
 
 
 ### Projects school 21:
