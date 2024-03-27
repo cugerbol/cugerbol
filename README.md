@@ -9,8 +9,14 @@
 
 # Projects:
 - [Apache kafka](https://github.com/cugerbol/Kafka) - Разворачиваем кластер Kafka.
-- [s21_decimal](https://github.com/cugerbol/s21_decimal) - Учебный проект школы 21. Пишем собственную библиотеку decimal на языке С.
 - [WBReports](https://github.com/cugerbol/WBReports) - Получение данных на Wildberries, обработка и экспорт в google sheets.
+- [Analytics_pack](https://github.com/cugerbol/analytics_pack) - Моя сборка различных утилит и инструментов для проведения анализа данных.
+
+
+### Projects school 21:
+- [s21_decimal](https://github.com/cugerbol/s21_decimal) - Пишем собственную статическую библиотеку decimal на языке С.
+- [s21_matrix](https://github.com/cugerbol/s21_matrix)  - Пишем собственную статическую библиотеку matrix на языке С.
+
 
 
 <!---
