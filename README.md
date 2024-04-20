@@ -14,6 +14,7 @@
 
 
 ### Projects school 21:
+- [Brickgame_v1.0.](https://github.com/cugerbol/brickgame_v1.0) - Тетрис на языке С
 - [s21_decimal](https://github.com/cugerbol/s21_decimal) - Пишем собственную статическую библиотеку decimal на языке С.
 
 
